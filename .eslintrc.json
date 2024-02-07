@@ -12,8 +12,7 @@
       { "varsIgnorePattern": "^_", "argsIgnorePattern": "^_" }
     ],
     "import/no-unresolved": "error",
-    "import/named": "error",
-    "prettier/prettier": "error"
+    "import/named": "error"
   },
   "ignorePatterns": ["jest.config.ts", "jest.setup.ts", "tailwind.config.ts"]
 }
